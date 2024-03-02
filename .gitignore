@@ -1,0 +1,10 @@
+
+*.pyc
+*.xml
+*.iml
+.ipynb_checkpoints/StreamlitApp-checkpoint.ipynb
+DB/
+dolly_12b/
+dolly_3b/
+dolly_7b/
+models/
